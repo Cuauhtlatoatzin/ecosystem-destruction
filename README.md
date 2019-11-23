@@ -34,9 +34,11 @@ supply of resources waiting to be extracted and turned in commodities.
 * [Leslie J (2019) On the Northwest’s Snake River, the Case for Dam Removal Grows. Yale Environment360. October 10.](https://e360.yale.edu/features/on-the-northwests-snake-river-the-case-for-dam-removal-grows)
 * [Flaccus G (2019) Pacific Northwest tribes call for removal of Columbia River dams. KATU2. October 14.](https://katu.com/news/local/pacific-northwest-tribes-call-for-removal-of-columbia-river-dams)
 * [DeNies R (2019) Respecting the Chehalis. Wild Salmon Center. October 15.](https://www.wildsalmoncenter.org/2019/10/15/respecting-the-chehalis/)
+* [Schmutz S, Moog O (2018) Dams: Ecological Impacts and Management. In: Schmutz S., Sendzimir J. (eds) Riverine Ecosystem Management. Aquatic Ecology Series, vol 8. Springer, Cham](https://link.springer.com/chapter/10.1007/978-3-319-73250-3_6)
 * [Anderson EP et al. (2018) Fragmentation of Andes-to-Amazon connectivity by hydropower dams. Science Advances. 4(1): eaao1642.](https://advances.sciencemag.org/content/4/1/eaao1642.full)
 * [Finer M, Jenkins CN (2012) Proliferation of Hydroelectric Dams in the Andean Amazon and Implications for Andes-Amazon Connectivity. PLoS ONE 7(4): e35126.](https://doi.org/10.1371/journal.pone.0035126)
-* [Fearnside PM, Pueyo S (2012) Underestimating greenhouse-gas emissions from tropical dams. Nature Climate Change. 2: 383–384.](https://www.nature.com/articles/nclimate1540] &mdash; [PDF](https://www.researchgate.net/publication/235434845_Greenhouse-gas_emissions_from_tropical_dams)
+* [Fearnside PM, Pueyo S (2012) Underestimating greenhouse-gas emissions from tropical dams. Nature Climate Change. 2: 383–384.](https://www.nature.com/articles/nclimate1540) &mdash; [PDF](https://www.researchgate.net/publication/235434845_Greenhouse-gas_emissions_from_tropical_dams)
+* [Fitzhugh TW, Vogel RM (2011) The impact of dams on flood flows in the United States. River Research and Applications. 27(10): 1192-1215.](https://doi.org/10.1002/rra.1417) &mdash; [PDF](https://www.researchgate.net/publication/227670300_The_impact_of_dams_on_flood_flows_in_the_United_States)
 
 Also see the maps in these articles for more of an idea of how much carbon could be released by any dam project (see the nature as carbon sequestration section for even more citations):
 * [Soudzilovskaia NA, et al. (2019) Global mycorrhizal plant distribution linked to terrestrial carbon stocks. Nature Communications. 10: 5077.](https://www.nature.com/articles/s41467-019-13019-2)
