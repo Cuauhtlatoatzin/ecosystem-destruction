@@ -31,14 +31,26 @@ supply of resources waiting to be extracted and turned in commodities.
 
 ### Damn Dams
 
+* [Lohan T (2019) Drones, Algae and Fish Ears: What We’re Learning Before the World’s Largest Dam-removal Project — and What We Could Miss. The Revelator. October 29.](https://therevelator.org/klamath-dam-science/)
+* [Plaven G (2019) Cost, timeline for removing Klamath River dams updated. Capital Press. August 13.](https://www.capitalpress.com/ag_sectors/water/cost-timeline-for-removing-klamath-river-dams-updated/article_1601e596-bd46-11e9-a7f8-ab87f07d9e06.html)
+* [Atkinson JA (2019) Opinion: Klamath dam removal is not a partisan issue. The Oregonian. October 23.](https://www.oregonlive.com/opinion/2019/10/opinion-klamath-dam-removal-is-not-a-partisan-issue.html)
 * [Leslie J (2019) On the Northwest’s Snake River, the Case for Dam Removal Grows. Yale Environment360. October 10.](https://e360.yale.edu/features/on-the-northwests-snake-river-the-case-for-dam-removal-grows)
 * [Flaccus G (2019) Pacific Northwest tribes call for removal of Columbia River dams. KATU2. October 14.](https://katu.com/news/local/pacific-northwest-tribes-call-for-removal-of-columbia-river-dams)
 * [DeNies R (2019) Respecting the Chehalis. Wild Salmon Center. October 15.](https://www.wildsalmoncenter.org/2019/10/15/respecting-the-chehalis/)
+* [Lohan T (2018) The Elwha’s Living Laboratory: Lessons From the World’s Largest Dam-removal Project. The Revelator. October 1.](https://therevelator.org/elwha-dam-removal/)
+  * `“When you think about what salmon do to a river, it’s almost like this infusion of giant vitamin pills up into the river basin,” adds Kober. As the salmon die or are eaten, they nourish plant and animal life along the riverbank. The impacts can be felt for miles, as far-ranging animals like bears also spread these marine-derived nutrients deep into the forest.`
 * [Schmutz S, Moog O (2018) Dams: Ecological Impacts and Management. In: Schmutz S., Sendzimir J. (eds) Riverine Ecosystem Management. Aquatic Ecology Series, vol 8. Springer, Cham](https://link.springer.com/chapter/10.1007/978-3-319-73250-3_6)
 * [Anderson EP et al. (2018) Fragmentation of Andes-to-Amazon connectivity by hydropower dams. Science Advances. 4(1): eaao1642.](https://advances.sciencemag.org/content/4/1/eaao1642.full)
+* [Poff NL, Schmidt JC (2016) How dams can go with the flow. Science. 353(6304): 1099-1100.](https://science.sciencemag.org/content/353/6304/1099)
+* https://www.minnehahacreek.org/sites/minnehahacreek.org/files/pdfs/projects/Ecological%20Effects%20of%20Dams%20July2013.pdf
 * [Finer M, Jenkins CN (2012) Proliferation of Hydroelectric Dams in the Andean Amazon and Implications for Andes-Amazon Connectivity. PLoS ONE 7(4): e35126.](https://doi.org/10.1371/journal.pone.0035126)
 * [Fearnside PM, Pueyo S (2012) Underestimating greenhouse-gas emissions from tropical dams. Nature Climate Change. 2: 383–384.](https://www.nature.com/articles/nclimate1540) &mdash; [PDF](https://www.researchgate.net/publication/235434845_Greenhouse-gas_emissions_from_tropical_dams)
+* [Beck MW, Claassen AH, Hundt PJ (2012) Environmental and livelihood impacts of dams: common lessons across development gradients that challenge sustainability. International Journal of River Basin Management. 10(1).](https://doi.org/10.1080/15715124.2012.656133)
+* [Moore JN, Arrigoni AS, Wilcox AC (2012) Impacts of Dams on Flow Regimes in Three Headwater Subbasins of the Columbia River Basin, United States. Journal of the American Water Resources Association. 48(5): 925-938.](https://doi.org/10.1111/j.1752-1688.2012.00660.x)
 * [Fitzhugh TW, Vogel RM (2011) The impact of dams on flood flows in the United States. River Research and Applications. 27(10): 1192-1215.](https://doi.org/10.1002/rra.1417) &mdash; [PDF](https://www.researchgate.net/publication/227670300_The_impact_of_dams_on_flood_flows_in_the_United_States)
+* [Angilletta MJ, et al. (2008) Big dams and salmon evolution: changes in thermal regimes and their potential evolutionary consequences. Evolutionary Applications. 1(2): 286-299.](https://doi.org/10.1111/j.1752-4571.2008.00032.x)
+* [Bednarek AT (2001) Undamming Rivers: A Review of the Ecological Impacts of Dam Removal. Environmental Management. 27(6): 803-814.](https://doi.org/10.1007/s002670010189)
+* [Kingsford RT (2000) Ecological impacts of dams, water diversions and rivermanagement on floodplain wetlands in Australia. Australian Ecology. 25: 109-127.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.460.5957&rep=rep1&type=pdf)
 
 Also see the maps in these articles for more of an idea of how much carbon could be released by any dam project (see the nature as carbon sequestration section for even more citations):
 * [Soudzilovskaia NA, et al. (2019) Global mycorrhizal plant distribution linked to terrestrial carbon stocks. Nature Communications. 10: 5077.](https://www.nature.com/articles/s41467-019-13019-2)
