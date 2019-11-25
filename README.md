@@ -81,6 +81,9 @@ Also see the maps in these articles for more of an idea of how much carbon could
 This discusses the types of loss of biodiveristy and biomass due to segmentation of rivers:
 * [WWF (2018) Living Planet Report 2018: Aiming higher (eds. Grooten N & Almond REA). WWF, Gland, Switzerland.](https://www.zsl.org/global-biodiversity-monitoring/indicators-and-assessments-unit/living-planet-index) &mdash; [PDF](https://www.zsl.org/sites/default/files/media/2018-10/lpr2018_full_report_spreads_1.pdf)
 
+This mentions what percentage of known human induced earthquakes are from dams:
+* [Wilson, M. P., Foulger, G. R., Gluyas, J. G., Davies, R. J., & Julian, B. R. (2017). HiQuake: The human‐induced earthquake database. Seismological Research Letters, 88(6), 1560-1565.](http://inducedearthquakes.org/)
+
 ### Paving Parcels
 
 * [Duncombe J (2019) We have broken nature into more than 990,000 little pieces. Eos. 100. November 5.](https://doi.org/10.1029/2019EO136354)
@@ -91,17 +94,12 @@ This discusses the types of loss of biodiveristy and biomass due to segmentation
 * https://datahub.transportation.gov/stories/s/45xw-qksz
 * https://shop.fathom.info/collections/countries-1/products/allstreets-countries-us
 
-
 ## Runoff
+
 * [Perkins T (2019) Biosolids: mix human waste with toxic chemicals, then spread on crops. The Guardian. October 5.](https://www.theguardian.com/environment/2019/oct/05/biosolids-toxic-chemicals-pollution)
 * [Gunarathne V, et al. (2019) Biochar from municipal solid waste for resource recovery and pollution remediation. Environmental Chemistry Letters. 17(3): 1225-1235.](https://doi.org/10.1007/s10311-019-00866-0) &mdash; [PDF](https://www.researchgate.net/publication/331661165_Biochar_from_municipal_solid_waste_for_resource_recovery_and_pollution_remediation?fbclid=IwAR12e_5zHHeGgSDYTHAsD3u3CcasSvwrdb68wsPrFPPovGxIF0kOuHaha_s)
 * [Rae J (2019) Polluting for a decade, 3M admits to Tennessee River toxic chemical release. WAFF48 News. June 20.](https://www.waff.com/2019/06/20/polluting-decade-m-admits-tn-river-toxic-chemical-release/)
 * [Xia R (2019) The biggest likely source of microplastics in California coastal waters? Our car tires. Los Angeles Times. October 2.](https://www.latimes.com/environment/story/2019-10-02/california-microplastics-ocean-study)
-
----
-
-* [Smith AV (2019) The Klamath River now has the legal rights of a person. High Country News. September 24.](https://www.hcn.org/articles/tribal-affairs-the-klamath-river-now-has-the-legal-rights-of-a-person)
-* [Staff Writers (2019) ‘Why is that even a question?’: Singh vows to end boil water advisories in indigenous communities. Global News. October 5.](https://globalnews.ca/video/5995008/why-is-that-even-a-question-singh-vows-to-end-boil-water-advisories-in-indigenous-communities)
 
 ## Everyday habbits destroying the ecosystems
 
@@ -133,6 +131,8 @@ This discusses the types of loss of biodiveristy and biomass due to segmentation
 * [Albert S, Grinham A, Gibbes B, Leon J, Church J (2016) Sea-level rise has claimed five whole islands in the Pacific: first scientific evidence. The Conversation. May 6.](https://theconversation.com/sea-level-rise-has-claimed-five-whole-islands-in-the-pacific-first-scientific-evidence-58511)
 * [Rich M, Dooley B (2019) Helicopters and Boats Rescue the Stranded After Typhoon Hits Japan. The New York Times. October 12.](https://www.nytimes.com/2019/10/12/world/asia/japan-typhoon-hagibis-dead.html)
 * [Borunda A (2019) We pump too much water out of the ground—and that’s killing our rivers. National Geographic. October 2.](https://www.nationalgeographic.com/science/2019/10/groundwater-pumping-killing-rivers-streams/)
+* [Smith AV (2019) The Klamath River now has the legal rights of a person. High Country News. September 24.](https://www.hcn.org/articles/tribal-affairs-the-klamath-river-now-has-the-legal-rights-of-a-person)
+* [Staff Writers (2019) ‘Why is that even a question?’: Singh vows to end boil water advisories in indigenous communities. Global News. October 5.](https://globalnews.ca/video/5995008/why-is-that-even-a-question-singh-vows-to-end-boil-water-advisories-in-indigenous-communities)
 
 
 ## Economics
@@ -194,6 +194,7 @@ Some stats:
 * [Neimark B, Belcher O, Bigger P (2019) US military is a bigger polluter than as many as 140 countries. The Conversation. June 24.](http://theconversation.com/us-military-is-a-bigger-polluter-than-as-many-as-140-countries-shrinking-this-war-machine-is-a-must-119269)
 * [Maffly B (2019) Feds to open Utah’s national parks to ATVs; advocates fear damage, noise they may bring. The Salt Lake Tribune. September 28.](https://www.sltrib.com/news/environment/2019/09/28/feds-open-utahs-national/)
 * [Smith LJ (2019) Envisioning and Designing the Floating Future. Undark Magazine. October 7.](https://undark.org/article/floating-lab-future-climate-change/)
+* [Peyton S (2018) "Home on the Market Range: an evaluation of cultural and economic barriers to large-scale bison farming". AllCollege Thesis Program. 2016-present. 58.](https://digitalcommons.csbsju.edu/honors_thesis/58)
 * [Daley J (2016) Researchers “Translate” Bat Talk. Turns Out, They Argue—A Lot. Smithsonian. December 23.](https://www.smithsonianmag.com/smart-news/researchers-translate-bat-talk-and-they-argue-lot-180961564/#C0ql436SH7S8guVU.99)
 * [Corder M (2019) Court: No statute of limitations in Dutch colonial crimes. Associated Press. October 1.](https://apnews.com/826c816bfb8f4bfb82a7f1df52a7e203)
 * [McCarthy J, Sanchez E (2019) Scientists Want to Make Harming the Environment a War Crime. Global Citizen. July 24.](https://www.globalcitizen.org/en/content/harming-environment-war-crime/)
@@ -256,7 +257,7 @@ Bay Area Fires:
 * [Merrill Fire. California Department of Forestry & Fire Protection.](https://www.fire.ca.gov/incidents/2019/10/10/merrill-fire/) &mdash; Contra Costa County.
 * [CBS SF (2019) Massive Fire At Crockett Fuel Facility Reignites At Base Of Tank. KPIX5. October 15.](https://sanfrancisco.cbslocal.com/2019/10/15/huge-explosion-massive-fire-rips-through-rodeo-refinery/)
 
-### Solar and E-Waste
+## Solar and E-Waste
 
 When one thinks of solar power, one probably thinks of a magical source of green energy with no no carbon footprint. Unfortunately, that cheery picture is not the reality. Solar panels must be manufactured and they must eventually be replaced. Since glass is typically one of the layers involved, that means the right kind of sand needs to be melted down to make the glass. Fortunately glass is the easiest part to recycle, but it still takes energy. After the glass is made, the next step is the same as manufacturing modern electronics. For thin film solar panels it takes mining rare metals, producing the toxic chemicals required, and forming each layer of the panel. For the panels most people have, manufacturing takes fewer toxic chemicals, but more silicon made from sand. Solar panels are actually easier to recycle than most electronics, which have hundreds of components mounted in place on a multilayer circuit board using a conductive molten metal alloy called solder. The complexity of modern electronics requires a decent amount of energy to build. It would stand to reason that recylcling it would also take a decent amount of energy.
 
@@ -294,7 +295,9 @@ Oh G-d if I see these articles again I'm going to have a kiniption.
 * [Desai J, Nelson M (2017) Are we headed for a solar waste crisis? Environmental Progress. June 21.](http://environmentalprogress.org/big-news/2017/6/21/are-we-headed-for-a-solar-waste-crisis) &mdash; This is so heavily pro nuclear and LNG it's laughable. Also, trying to compare high level nuclear waste that we don't know how to store for long periods of time and technology that we have a process for recycling is a categorical error.
 * [IER. (2017) Will Solar Power Be at Fault for the Next Environmental Crisis?. Institute for Energy Research. August 15.](https://www.instituteforenergyresearch.org/uncategorized/will-solar-power-fault-next-environmental-crisis/) &mdash; Cite the above article and relies on it's argument so much I think it was written by the same people.
 
-True shit to look at and rip apart: https://www.heartland.org/
+True shit to look at and rip apart, because it's so wrong: https://www.heartland.org/
+
+Tangentially related:
 
 * [Leotaud VR (2019) Phytomining is a thing in Australia. Mining.com. July 28.](https://www.mining.com/phytomining-is-a-thing-in-australia/)
 * [Beiser V (2019) Why the world is running out of sand. BBC Future. November 17.](https://www.bbc.com/future/article/20191108-why-the-world-is-running-out-of-sand)
@@ -312,29 +315,54 @@ True shit to look at and rip apart: https://www.heartland.org/
 
 ## Nature as Carbon Sequestration
 
-* [Dass P, Houlton BZ, Wang Y, Warlind D (2018) Grasslands may be more reliable carbon sinks than forests in California. Environmental Research Letters. 13(7)](https://doi.org/10.1088/1748-9326/aacb39)
-* [Beaty C (2016) The Carbon-Sequestering Power of Soils. Wildlife Habitat Council. January 10.](https://www.wildlifehc.org/the-carbon-sequestering-power-of-soils/)
-* [Soudzilovskaia NA, et al. (2019) Global mycorrhizal plant distribution linked to terrestrial carbon stocks. Nature Communications. 10: 5077.](https://www.nature.com/articles/s41467-019-13019-2)
-* [Clemmensen KE et al. (2013) Roots and Associated Fungi Drive Long-Term Carbon Sequestration in Boreal Forest. Science. 339(6127): 1615-1618.](https://science.sciencemag.org/content/339/6127/1615)
-* [Frechette A et al. (2018) A Global Baseline of Carbon Storage in Collective Lands. Rights and Resources Initiative. September.](https://rightsandresources.org/wp-content/uploads/2018/09/A-Global-Baseline_RRI_Sept-2018.pdf)
-* [Scharlemann, J. P., Hiederer, R., Kapos, V., & Ravilious, C. (2009). Updated global carbon map. UNEP-WCRC & EU-JRC, Cambridge, UK.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.213.163&rep=rep1&type=pdf)
+### News Clippings
+
 * [Beacom N (2019) Planting Native Prairie Could Be a Secret Weapon for Farmers. Civil Eats. October 15.](https://civileats.com/2019/10/15/planting-native-prairie-could-be-a-secret-weapon-for-farmers/)
-* [Li X, McCarty G, Karlen DL, Cambardella CA (2018) Topographic metric predictions of soil redistribution and organic carbon in Iowa cropland fields. CATENA. 160: 222-232.](https://doi.org/10.1016/j.catena.2017.09.026)
-* [Maher RM, Asbjornsen H, Kolka RK, Cambardella CA, Raich JW (2010) Changes in soil respiration across a chronosequence of tallgrass prairie reconstructions. Agriculture, Ecosystems & Environment. 139(4): 749-753.](https://www.nrs.fs.fed.us/pubs/46864)
-* [Lin E-D, Guo L-P, Ju H (2018) Challenges to increasing the soil carbon pool of agro-ecosystems in China. Journal of Integrative Agriculture. 17(4): 723-725.](https://doi.org/10.1016/S2095-3119(17)61744-1)
 * [Whiting K (2019) This pioneering British ‘wildland’ farm could boost biodiversity and yields. World Economic Forum. October 9.](https://www.weforum.org/agenda/2019/10/farming-agriculture-biodiversity-wildland)
 * [Welch C (2019) To curb climate change, we have to suck carbon from the sky. But how? National Geographic. January 17.](https://www.nationalgeographic.com/environment/2019/01/carbon-capture-trees-atmosphere-climate-change/)
-* [Colorado State University. (2019) Researchers find multiple effects on soil from manure from cows administered antibiotics. Phys.org. October 9.](https://phys.org/news/2019-10-multiple-effects-soil-manure-cows.html)
-  * [Peake T (2017) Bacteria can spread antibiotic resistance through soil. Phys.org. October 6.](https://phys.org/news/2017-10-bacteria-antibiotic-resistance-soil.html)
-* [Laudermilk WC (1948) Conquest of the Land Through Seven Thousand Years. U. S. Department of Agriculture. Soil Conservation Service. February.](https://soilandhealth.org/wp-content/uploads/01aglibrary/010119lowdermilk.usda/cls.html)
-* [Grace PR et al. (2011) The contribution of maize cropping in the Midwest USA to global warming:A regional estimate. Agricultural Systems. 104(3): 292-296.](https://doi.org/10.1016/j.agsy.2010.09.001) &mdash; [PDF](https://lter.kbs.msu.edu/docs/robertson/Grace_etal_2011.pdf)
 * [Magill B (2017) Desert Basins May Hold Missing Carbon Sinks. Scientific American. June 21.](https://www.scientificamerican.com/article/desert-basins-may-hold-missing-carbon-sinks/)
-* [Van Amstel A (2012) Methane. A Review. Journal of Integrative Environmental Sciences. Sup1: 5-30.](https://doi.org/10.1080/1943815X.2012.694892)
+* [Beaty C (2016) The Carbon-Sequestering Power of Soils. Wildlife Habitat Council. January 10.](https://www.wildlifehc.org/the-carbon-sequestering-power-of-soils/)
+* [Shaw T (2011) Iowa: The Power of Praires. Open Spaces. U.S. Fish & Wildlife Service. June 27.](https://www.fws.gov/news/blog/index.cfm/2011/6/27/Iowa-The-Power-of-Prairies)
+
+### Research Papers
+
+* [Tveit AT, et al. (2019) Widespread soil bacterium that oxidizes atmospheric methane. PNAS. 116(17): 8515-8524.](https://doi.org/10.1073/pnas.1817812116)
+* [Soudzilovskaia NA, et al. (2019) Global mycorrhizal plant distribution linked to terrestrial carbon stocks. Nature Communications. 10: 5077.](https://www.nature.com/articles/s41467-019-13019-2)
+* [Dass P, Houlton BZ, Wang Y, Warlind D (2018) Grasslands may be more reliable carbon sinks than forests in California. Environmental Research Letters. 13(7)](https://doi.org/10.1088/1748-9326/aacb39)
+* [Li X, McCarty G, Karlen DL, Cambardella CA (2018) Topographic metric predictions of soil redistribution and organic carbon in Iowa cropland fields. CATENA. 160: 222-232.](https://doi.org/10.1016/j.catena.2017.09.026)
+* [Lin E-D, Guo L-P, Ju H (2018) Challenges to increasing the soil carbon pool of agro-ecosystems in China. Journal of Integrative Agriculture. 17(4): 723-725.](https://doi.org/10.1016/S2095-3119(17)61744-1)
+* [Farhan Ul Haque, M., Crombie, A.T., Ensminger, S.A. et al. Facultative methanotrophs are abundant at terrestrial natural gas seeps. Microbiome 6, 118 (2018) doi:10.1186/s40168-018-0500-x](https://doi.org/10.1186/s40168-018-0500-x)
+* [Kenney GE, Rosenzweig AC (2018) Methanobactins: Maintaining copper homeostasis in methanotrophs and beyond. The Journal of Biological Chemistry. 293: 4606-4615.](https://doi.org/10.1074/jbc.TM117.000185)
+* [Hungate BA, et al. (2017) The economic value of grassland species for carbon storage. Science Advances. 3(4): e1601880.](https://dx.doi.org/10.1126%2Fsciadv.1601880)
 * [Crevecoeur S, Vincent WF, Comte J, Matveev A, Lovejoy C (2017) Diversity and potential activity of methanotrophs in high methane-emitting permafrost thaw ponds. PLoS ONE 12(11): e0188223.](https://doi.org/10.1371/journal.pone.0188223)
+* [Cai, Y., Zheng, Y., Bodelier, P. et al. (2016) Conventional methanotrophs are responsible for atmospheric methane oxidation in paddy soils. Nature Communications 7: 11728 doi:10.1038/ncomms11728](https://doi.org/10.1038/ncomms11728)
+* [Lau MCY, Stackhouse BT, et al. (2015) An active atmospheric methane sink in high Arctic mineral cryosols. ISME J. 9(8): 1880-1891.](https://dx.doi.org/10.1038%2Fismej.2015.13)
+* [West BJ (2014) Estimation of Carbon Sequestration in a Restored Tallgrass Prairie Ecosystem in Eastern Missouri.](https://www.semanticscholar.org/paper/Estimation-of-Carbon-Sequestration-in-a-Restored-in-West/1b920636087070b6d4a493b60583b8eb35feaf39)
+* [Clemmensen KE et al. (2013) Roots and Associated Fungi Drive Long-Term Carbon Sequestration in Boreal Forest. Science. 339(6127): 1615-1618.](https://science.sciencemag.org/content/339/6127/1615)
+* [Fronara DA, Tilman D (2012) Soil carbon sequestration in prairie grasslands increased by chronic nitrogen addition. Ecology. 93(9): 2030-2036.](https://doi.org/10.1890/12-0292.1)
+  * `Since both high plant diversity and elevated N deposition may increase soil C sequestration, but N deposition also decreases plant diversity, more research is needed to address the long‐term implications for soil C storage of these two factors.`
+* [Van Amstel A (2012) Methane. A Review. Journal of Integrative Environmental Sciences. Sup1: 5-30.](https://doi.org/10.1080/1943815X.2012.694892)
+* [Grace PR et al. (2011) The contribution of maize cropping in the Midwest USA to global warming: A regional estimate. Agricultural Systems. 104(3): 292-296.](https://doi.org/10.1016/j.agsy.2010.09.001) &mdash; [PDF](https://lter.kbs.msu.edu/docs/robertson/Grace_etal_2011.pdf)
+* [Maher RM, Asbjornsen H, Kolka RK, Cambardella CA, Raich JW (2010) Changes in soil respiration across a chronosequence of tallgrass prairie reconstructions. Agriculture, Ecosystems & Environment. 139(4): 749-753.](https://www.nrs.fs.fed.us/pubs/46864)
+* [Wang S, Yang X, et al. (2009) Methane emission by plant communities in an alpine meadow on the Qinghai-Tibetan Plateau: a new experimental study of alpine meadows and oat pasture. Biology Letters. 5(4): 535–538.](https://www.semanticscholar.org/paper/Methane-emission-by-plant-communities-in-an-alpine-Wang-Yang/653bc3c91e221ef9afbd9b6eec654593fe88ae31)
+* [Cahill KN, Kucharik CJ, Foley JA (2009) Prairie restoration and carbon sequestration: difficulties quantifying C sources and sinks using a biometric approach. Ecological Applications. 19(8): 2185-2201.](https://doi.org/10.1890/08-0069.1)
+
+Current, soil carbon storage:
+* [Frechette A et al. (2018) A Global Baseline of Carbon Storage in Collective Lands. Rights and Resources Initiative. September.](https://rightsandresources.org/wp-content/uploads/2018/09/A-Global-Baseline_RRI_Sept-2018.pdf)
+* [Scharlemann, J. P., Hiederer, R., Kapos, V., & Ravilious, C. (2009). Updated global carbon map. UNEP-WCRC & EU-JRC, Cambridge, UK.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.213.163&rep=rep1&type=pdf)
+
+Soil can get infected and spread infection, soil can also spread antibiotic resistance!
+* [Colorado State University. (2019) Researchers find multiple effects on soil from manure from cows administered antibiotics. Phys.org. October 9.](https://phys.org/news/2019-10-multiple-effects-soil-manure-cows.html)
+* [Peake T (2017) Bacteria can spread antibiotic resistance through soil. Phys.org. October 6.](https://phys.org/news/2017-10-bacteria-antibiotic-resistance-soil.html)
+
+### Notes
+
+* [Laudermilk WC (1948) Conquest of the Land Through Seven Thousand Years. U. S. Department of Agriculture. Soil Conservation Service. February.](https://soilandhealth.org/wp-content/uploads/01aglibrary/010119lowdermilk.usda/cls.html)
 
 ## Re-Buffalo
 
 * [Associated Press (2019) Oglala Lakota tribe signs International Buffalo Treaty. KEVN Black Hills Fox. October 10.](https://www.blackhillsfox.com/content/news/Oglala-Lakota-tribe-signs-International-Buffalo-Treaty-562744171.html)
+* [Peyton S (2018) "Home on the Market Range: an evaluation of cultural and economic barriers to large-scale bison farming". AllCollege Thesis Program. 2016-present. 58.](https://digitalcommons.csbsju.edu/honors_thesis/58)
 
 ## Tropical Circulation (Hadley Belt)
 
