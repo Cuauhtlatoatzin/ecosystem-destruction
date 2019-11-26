@@ -113,6 +113,7 @@ This mentions what percentage of known human induced earthquakes are from dams:
 
 ## Water news
 
+* [Riddell EA, Iknayan KJ, Wolf BO, Sinervo B, Beissinger SR (2019) Cooling requirements fueled the collapse of a desert bird community from climate change. PNAS. 116(43): 21609-21615.](https://doi.org/10.1073/pnas.1908791116)
 * [Kobin B (2019) Ironman Louisville cancels swimming portion due to toxic algae in Ohio River, no refunds. Louisville Courier Journal. October 11.](https://www.courier-journal.com/story/news/local/2019/10/11/2019-ironman-louisville-swim-canceled-due-ohio-river-toxic-algae/3941580002/)
 * [Osborne H (2019) Sea 'Boiling' with Methane Discovered in Siberia: 'No One Has Ever Recorded Anything like This Before'. Newsweek. October 8.](https://www.newsweek.com/methane-boiling-sea-discovered-siberia-1463766)
   * ![Reg Morrison. The impact of CH4 atmonspheric methane concentrations on global temperature increase may be far greater than previously estimated.](https://upload.wikimedia.org/wikipedia/commons/9/96/Graph_CO2_CH4_and_Temperature_Graph_in_English_15_June_2015_by_Reg_Morrison.jpg)
@@ -127,6 +128,7 @@ This mentions what percentage of known human induced earthquakes are from dams:
   * `❝Without action, rare, catastrophic storm surges will become common within 30 years, Oppenheimer says. “What was a 100-year event is a yearly event by 2050.” Rising waters pose a particular threat to small island nations near the equator, where storms are rare and sea level typically varies little, allowing infrastructure to be built close to the ocean. There are also examples of resilience: Shanghai, China, for example, pumped water back into its underground aquifers to counteract subsidence that had made the city more vulnerable to sea level rise—a challenge also facing many other coastal cities.❞`
   * [IPCC (2019) IPCC Special Report on the Ocean and Cryosphere in a Changing Climate[H.-O. Pörtner, D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E. Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B. Rama, N. Weyer (eds.)]. In press.](https://www.ipcc.ch/srocc/download-report/)
 * [Miller M, McChesney R (2019) Heavy rainfall in Juneau causes minor flooding and prompts evacuations. KTOO Public Media. October 6.](https://www.ktoo.org/2019/10/06/heavy-rainfall-in-juneau-causes-minor-flooding-and-prompts-evacuations)
+* [Ferguson G, McIntosh JC, Perrone D, Jasechko S (2018) Competition for shrinking window of low salinity groundwater. Environmental Research Letters. 13: 114013.](https://doi.org/10.1088/1748-9326/aae6d8)
 * [Earl J (2018) Great Pacific Garbage Patch is now twice the size of Texas. New York Post. March 23.](https://nypost.com/2018/03/23/great-pacific-garbage-patch-is-now-twice-the-size-of-texas/)
 * [Albert S, Grinham A, Gibbes B, Leon J, Church J (2016) Sea-level rise has claimed five whole islands in the Pacific: first scientific evidence. The Conversation. May 6.](https://theconversation.com/sea-level-rise-has-claimed-five-whole-islands-in-the-pacific-first-scientific-evidence-58511)
 * [Rich M, Dooley B (2019) Helicopters and Boats Rescue the Stranded After Typhoon Hits Japan. The New York Times. October 12.](https://www.nytimes.com/2019/10/12/world/asia/japan-typhoon-hagibis-dead.html)
@@ -185,6 +187,7 @@ Some stats:
 
 ## Fodder
 
+* [Coronese M Lamperti F, Keller K, Chiaromente F, Roventini A (2019) Evidence for sharp increase in the economic damages of extreme natural disasters. PNAS. 116(43): 21450-21455.](https://doi.org/10.1073/pnas.1907826116)
 * [Takahama E (2019) Learning in nature: Washington becomes first in the country to license outdoor preschools. Seattle Times. October 2.](https://www.seattletimes.com/education-lab/learning-in-nature-washington-becomes-first-in-the-country-to-license-outdoor-preschools/)
 * [Wuerthner G (2019) George Wuerthner: BLM is attacking juniper to help cows, not sage grouse. The Salt Lake Tribune. September 12.](https://www.sltrib.com/opinion/commentary/2019/09/12/george-wuerthner-blm-is/)
 * [Kahn B (2019) 'Outrage': New Video Shows Bulldozers Destroying America's Most Iconic Cacti to Build Trump's Border Wall. Gizmodo Earther. October 4.](https://earther.gizmodo.com/outrage-new-video-shows-bulldozers-destroying-americas-1838787163)
@@ -291,7 +294,7 @@ Since solar panels are made using many of the same techniques as modern semicond
   * [Chi X, Streicher-Porte M, Wang MYL, Reuter MA (2011) Informal electronic waste recycling: A sector review with special focus on China. Waste Management. 31(4): 731-742.](https://doi.org/10.1016/j.wasman.2010.11.006)
   * [Yu J, Williams E, Ju M, Shao C (2010) Managing e-waste in China: Policies, pilot projects and alternative approaches. Resources, Conservation and Recycling. 54(11): 991-999.](https://doi.org/10.1016/j.resconrec.2010.02.006)
 
-Oh G-d if I see these articles again I'm going to have a kiniption.
+Oh G-d if I see these articles again I'm going to have a kiniption:
 * [Desai J, Nelson M (2017) Are we headed for a solar waste crisis? Environmental Progress. June 21.](http://environmentalprogress.org/big-news/2017/6/21/are-we-headed-for-a-solar-waste-crisis) &mdash; This is so heavily pro nuclear and LNG it's laughable. Also, trying to compare high level nuclear waste that we don't know how to store for long periods of time and technology that we have a process for recycling is a categorical error.
 * [IER. (2017) Will Solar Power Be at Fault for the Next Environmental Crisis?. Institute for Energy Research. August 15.](https://www.instituteforenergyresearch.org/uncategorized/will-solar-power-fault-next-environmental-crisis/) &mdash; Cite the above article and relies on it's argument so much I think it was written by the same people.
 
@@ -321,6 +324,7 @@ Tangentially related:
 * [Whiting K (2019) This pioneering British ‘wildland’ farm could boost biodiversity and yields. World Economic Forum. October 9.](https://www.weforum.org/agenda/2019/10/farming-agriculture-biodiversity-wildland)
 * [Welch C (2019) To curb climate change, we have to suck carbon from the sky. But how? National Geographic. January 17.](https://www.nationalgeographic.com/environment/2019/01/carbon-capture-trees-atmosphere-climate-change/)
 * [Magill B (2017) Desert Basins May Hold Missing Carbon Sinks. Scientific American. June 21.](https://www.scientificamerican.com/article/desert-basins-may-hold-missing-carbon-sinks/)
+* [Turner J (2017) Grass-fed cows won’t save the climate, report finds. Science News. October 2.](https://www.sciencemag.org/news/2017/10/grass-fed-cows-won-t-save-climate-report-finds)
 * [Beaty C (2016) The Carbon-Sequestering Power of Soils. Wildlife Habitat Council. January 10.](https://www.wildlifehc.org/the-carbon-sequestering-power-of-soils/)
 * [Shaw T (2011) Iowa: The Power of Praires. Open Spaces. U.S. Fish & Wildlife Service. June 27.](https://www.fws.gov/news/blog/index.cfm/2011/6/27/Iowa-The-Power-of-Prairies)
 
@@ -347,7 +351,7 @@ Tangentially related:
 * [Wang S, Yang X, et al. (2009) Methane emission by plant communities in an alpine meadow on the Qinghai-Tibetan Plateau: a new experimental study of alpine meadows and oat pasture. Biology Letters. 5(4): 535–538.](https://www.semanticscholar.org/paper/Methane-emission-by-plant-communities-in-an-alpine-Wang-Yang/653bc3c91e221ef9afbd9b6eec654593fe88ae31)
 * [Cahill KN, Kucharik CJ, Foley JA (2009) Prairie restoration and carbon sequestration: difficulties quantifying C sources and sinks using a biometric approach. Ecological Applications. 19(8): 2185-2201.](https://doi.org/10.1890/08-0069.1)
 
-Current, soil carbon storage:
+Current soil carbon storage:
 * [Frechette A et al. (2018) A Global Baseline of Carbon Storage in Collective Lands. Rights and Resources Initiative. September.](https://rightsandresources.org/wp-content/uploads/2018/09/A-Global-Baseline_RRI_Sept-2018.pdf)
 * [Scharlemann, J. P., Hiederer, R., Kapos, V., & Ravilious, C. (2009). Updated global carbon map. UNEP-WCRC & EU-JRC, Cambridge, UK.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.213.163&rep=rep1&type=pdf)
 
@@ -363,6 +367,30 @@ Soil can get infected and spread infection, soil can also spread antibiotic resi
 
 * [Associated Press (2019) Oglala Lakota tribe signs International Buffalo Treaty. KEVN Black Hills Fox. October 10.](https://www.blackhillsfox.com/content/news/Oglala-Lakota-tribe-signs-International-Buffalo-Treaty-562744171.html)
 * [Peyton S (2018) "Home on the Market Range: an evaluation of cultural and economic barriers to large-scale bison farming". AllCollege Thesis Program. 2016-present. 58.](https://digitalcommons.csbsju.edu/honors_thesis/58)
+
+### Anti-Cow
+
+Note, it's not so much anti-cow versus moderating consumption and making sure more native flora and fauna balance the equation of methane emission.
+
+* Fraser MD, Fleming HR, Moorby JM (2014) Traditional vs Modern: Role of Breed Type in Determining Enteric Methane Emissions from Cattle Grazing as Part of Contrasting Grassland-Based Systems. PLoS ONE 9(9): e107861. https://doi.org/10.1371/journal.pone.0107861
+* Cattle and methane: More complicated than first meets the (rib) eye http://www.shapingtomorrowsworld.org/wahlquistmethane.html
+* Nationwide shift to grass-fed beef requires larger cattle population http://nrs.harvard.edu/urn-3:HUL.InstRepos:37260135
+* [Freilich JE, Emlen JM, Duda JJ, Freeman DC, Cafaro PJ (2003) Ecological Effects of Ranching: A Six-Point Critique. BioScience. 53(8): 759–765.](https://doi.org/10.1641/0006-3568(2003)053[0759:EEORAS]2.0.CO;2)
+* How beef colonized the West and America’s dinner plate https://www.hcn.org/articles/food-how-beef-colonized-the-west-and-americas-dinner-plate
+* Carnivore’s Dilemma https://www.nationalgeographic.com/foodfeatures/meat/
+* Global Livestock Environmental Assessment Model (GLEAM) http://www.fao.org/gleam/results/en/
+* Current situation and future prospects for beef production in Europe — A review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6039334/
+* Goldstein B, Moses R, Sammons N, Birkved M (2017) Potential to curb the environmental burdens of American beef consumption using a novel plant-based beef substitute. PLoS ONE 12(12): e0189029. https://doi.org/10.1371/journal.pone.0189029
+* Global Provisioning of Red Meat for Flexitarian Diets https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6010543/
+
+### Pro-Cow
+
+* https://www.sacredcow.info/
+* Can restoring grasslands help restore the climate? https://www.virgin.com/virgin-unite/can-restoring-grasslands-help-restore-climate
+
+### Quantity Currently Devoured
+
+* Which countries eat the most meat? https://www.bbc.com/news/health-47057341
 
 ## Tropical Circulation (Hadley Belt)
 
