@@ -135,6 +135,7 @@ This mentions what percentage of known human induced earthquakes are from dams:
 * [Borunda A (2019) We pump too much water out of the ground—and that’s killing our rivers. National Geographic. October 2.](https://www.nationalgeographic.com/science/2019/10/groundwater-pumping-killing-rivers-streams/)
 * [Smith AV (2019) The Klamath River now has the legal rights of a person. High Country News. September 24.](https://www.hcn.org/articles/tribal-affairs-the-klamath-river-now-has-the-legal-rights-of-a-person)
 * [Staff Writers (2019) ‘Why is that even a question?’: Singh vows to end boil water advisories in indigenous communities. Global News. October 5.](https://globalnews.ca/video/5995008/why-is-that-even-a-question-singh-vows-to-end-boil-water-advisories-in-indigenous-communities)
+* [UN Climate Reports](https://www.un.org/en/climatechange/reports.shtml)
 
 
 ## Economics
@@ -406,6 +407,7 @@ Note, it's not so much anti-cow versus moderating consumption and making sure mo
 ## Biomass
 
 * [Living Planet Index.](http://www.livingplanetindex.org/projects?main_page_project=LivingPlanetReport&home_flag=1)
+* ![](http://www.livingplanetindex.org/assets/cms/images/Global_trend-305.png)
 
 ### 2019
 
