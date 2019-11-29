@@ -118,8 +118,6 @@ This mentions what percentage of known human induced earthquakes are from dams:
 * [Osborne H (2019) Sea 'Boiling' with Methane Discovered in Siberia: 'No One Has Ever Recorded Anything like This Before'. Newsweek. October 8.](https://www.newsweek.com/methane-boiling-sea-discovered-siberia-1463766)
   * ![Reg Morrison. The impact of CH4 atmonspheric methane concentrations on global temperature increase may be far greater than previously estimated.](https://upload.wikimedia.org/wikipedia/commons/9/96/Graph_CO2_CH4_and_Temperature_Graph_in_English_15_June_2015_by_Reg_Morrison.jpg)
   * Also see [Reg Morrison's presentation](http://regmorrison.edublogs.org/files/2013/02/METHANE-2-1sca3tx.pdf)
-  * ![](https://journals.plos.org//plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.0020303.g001)
-  * [Ward N, Larsen Ø, Sakwa J, Bruseth L, Khouri H, Durkin AS, et al. (2004) Genomic Insights into Methanotrophy: The Complete Genome Sequence of Methylococcus capsulatus (Bath). PLoS Biol 2(10): e303.](https://doi.org/10.1371/journal.pbio.0020303)
 * [Amos J (2019) 315 billion-tonne iceberg breaks off Antarctica. BBC News. September 30.](https://www.bbc.com/news/science-environment-49885450)
 * [Borenstein S (2019) ‘We’re all in big trouble’: Climate panel sees a dire future. KTUU News. September 25.](https://www.ktuu.com/content/news/New-climate-report-Oceans-rising-faster-ice-melting-more-561312391.html)
 * [Meyer R (2019) The Oceans We Know Won’t Survive Climate Change. The Atlantic. September 25.](https://www.theatlantic.com/science/archive/2019/09/ipcc-sea-level-rise-report/598765/)
@@ -351,6 +349,8 @@ Tangentially related:
 * [Maher RM, Asbjornsen H, Kolka RK, Cambardella CA, Raich JW (2010) Changes in soil respiration across a chronosequence of tallgrass prairie reconstructions. Agriculture, Ecosystems & Environment. 139(4): 749-753.](https://www.nrs.fs.fed.us/pubs/46864)
 * [Wang S, Yang X, et al. (2009) Methane emission by plant communities in an alpine meadow on the Qinghai-Tibetan Plateau: a new experimental study of alpine meadows and oat pasture. Biology Letters. 5(4): 535–538.](https://www.semanticscholar.org/paper/Methane-emission-by-plant-communities-in-an-alpine-Wang-Yang/653bc3c91e221ef9afbd9b6eec654593fe88ae31)
 * [Cahill KN, Kucharik CJ, Foley JA (2009) Prairie restoration and carbon sequestration: difficulties quantifying C sources and sinks using a biometric approach. Ecological Applications. 19(8): 2185-2201.](https://doi.org/10.1890/08-0069.1)
+* [Ward N, Larsen Ø, Sakwa J, Bruseth L, Khouri H, Durkin AS, et al. (2004) Genomic Insights into Methanotrophy: The Complete Genome Sequence of Methylococcus capsulatus (Bath). PLoS Biol 2(10): e303.](https://doi.org/10.1371/journal.pbio.0020303)
+  * ![](https://journals.plos.org//plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.0020303.g001)
 
 Current soil carbon storage:
 * [Frechette A et al. (2018) A Global Baseline of Carbon Storage in Collective Lands. Rights and Resources Initiative. September.](https://rightsandresources.org/wp-content/uploads/2018/09/A-Global-Baseline_RRI_Sept-2018.pdf)
