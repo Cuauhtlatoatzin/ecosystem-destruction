@@ -135,23 +135,6 @@ This mentions what percentage of known human induced earthquakes are from dams:
 * [Staff Writers (2019) ‘Why is that even a question?’: Singh vows to end boil water advisories in indigenous communities. Global News. October 5.](https://globalnews.ca/video/5995008/why-is-that-even-a-question-singh-vows-to-end-boil-water-advisories-in-indigenous-communities)
 * [UN Climate Reports](https://www.un.org/en/climatechange/reports.shtml)
 
-
-## Economics
-
-* [Di Giacomo M, Cenci M (2018) Corporate control and ownership networks. Corporate Ownership & Control, 15(4), 86-95.](http://doi.org/10.22495/cocv15i4art8)
-* [Rungi A, Morrison G, Pammolli F (2017) Global Ownership and Corporate Control Networks. IMT Lucca EIC WP Series 07/2017.](http://dx.doi.org/10.2139/ssrn.3031955)
-* [Vitali S, Glattfelder JB, Battiston S (2011) The Network of Global Corporate Control. PLoS ONE 6(10): e25995.](https://doi.org/10.1371/journal.pone.0025995)
-* [Leiserson G, McGrew W, Kopparam R (2019) The distribution of wealth in the United States and implications for a net worth tax. Washington Center for Equitable Growth. March 2019.](https://equitablegrowth.org/the-distribution-of-wealth-in-the-united-states-and-implications-for-a-net-worth-tax/)
-* [Donald K, Martens J (2018) "1 – The increasing concentration of wealth and economic power as an obstacle to sustainable development – and what to do about it." Exploring new policy pathways. Spotlight on Sustainable Development 2018. In press.](https://www.2030spotlight.org/en/book/1730/chapter/1-increasing-concentration-wealth-and-economic-power-obstacle-sustainable)
-* [Domhoff GW (2005) Wealth, Income, and Power. Who Rules America? Updated in 2017.](https://whorulesamerica.ucsc.edu/power/wealth.html)
-* [Hauner T (2017) Network Defect:  Wealth Inequality, Network Topology and Financial Crisis. Seventh Meeting of the Society for the Study of Economic Inequality (ECINEQ).](http://www.ecineq.org/ecineq_nyc17/FILESx2017/CR2/p141.pdf)
-* [Almeida V (2017) Income inequality and redistribution in the aftermath of the 2007-2008 crisis: the US case. Seventh Meeting of the Society for the Study of Economic Inequality (ECINEQ).](http://www.ecineq.org/ecineq_nyc17/FILESx2017/CR2/p441.pdf)
-* [Fuchs B, Thurner S (2014) Behavioral and Network Origins of Wealth Inequality: Insights from a Virtual World. PLoS ONE 9(8): e103503.](https://doi.org/10.1371/journal.pone.0103503)
-* [Johnston DC (2011) Beyond the 1 percent. Blogs. Reuters. October 25.](http://blogs.reuters.com/david-cay-johnston/2011/10/25/beyond-the-1-percent/)
-* [Buchanan M (2002) "Wealth Happens - Wealth Distribution and the Role of Networks." Working Knowledge. Harvard Business School. April 29.](https://hbswk.hbs.edu/archive/wealth-happens-wealth-distribution-and-the-role-of-networks)
-
-Tambien vea http://www.ecineq.org/ecineq_nyc17/documents/ECINEQ%202017%20NYC%20booklet.pdf
-
 ## Land defenders killed
 
 Some stats:
@@ -172,17 +155,43 @@ Some stats:
 * [Ulmanu M, Evans A, Brown G (2017) Environmental and land defenders killed in 2016: the full list. The Guardian. July 13.](https://www.theguardian.com/environment/2017/jul/13/environmental-and-land-defenders-killed-in-2016-the-full-list)
 * [Ulmanu M, Evans A, Brown G (2017) Environmental and land defenders killed in 2015: the full list. The Guardian. July 13.](https://www.theguardian.com/environment/2017/jul/13/environmental-and-land-defenders-killed-in-2015-the-full-list)
 
-## Collapse of Economies
+## Economics
 
+* [Kein J (2019) The Real Class War. American Affairs. 3(4): 153-172.](https://americanaffairsjournal.org/2019/11/the-real-class-war/)
+* [Di Giacomo M, Cenci M (2018) Corporate control and ownership networks. Corporate Ownership & Control, 15(4), 86-95.](http://doi.org/10.22495/cocv15i4art8)
+* [Rungi A, Morrison G, Pammolli F (2017) Global Ownership and Corporate Control Networks. IMT Lucca EIC WP Series 07/2017.](http://dx.doi.org/10.2139/ssrn.3031955)
+* [Vitali S, Glattfelder JB, Battiston S (2011) The Network of Global Corporate Control. PLoS ONE 6(10): e25995.](https://doi.org/10.1371/journal.pone.0025995)
+* [Leiserson G, McGrew W, Kopparam R (2019) The distribution of wealth in the United States and implications for a net worth tax. Washington Center for Equitable Growth. March 2019.](https://equitablegrowth.org/the-distribution-of-wealth-in-the-united-states-and-implications-for-a-net-worth-tax/)
+* [Donald K, Martens J (2018) "1 – The increasing concentration of wealth and economic power as an obstacle to sustainable development – and what to do about it." Exploring new policy pathways. Spotlight on Sustainable Development 2018. In press.](https://www.2030spotlight.org/en/book/1730/chapter/1-increasing-concentration-wealth-and-economic-power-obstacle-sustainable)
+* [Domhoff GW (2005) Wealth, Income, and Power. Who Rules America? Updated in 2017.](https://whorulesamerica.ucsc.edu/power/wealth.html)
+* [Hauner T (2017) Network Defect:  Wealth Inequality, Network Topology and Financial Crisis. Seventh Meeting of the Society for the Study of Economic Inequality (ECINEQ).](http://www.ecineq.org/ecineq_nyc17/FILESx2017/CR2/p141.pdf)
+* [Almeida V (2017) Income inequality and redistribution in the aftermath of the 2007-2008 crisis: the US case. Seventh Meeting of the Society for the Study of Economic Inequality (ECINEQ).](http://www.ecineq.org/ecineq_nyc17/FILESx2017/CR2/p441.pdf)
+* [Fuchs B, Thurner S (2014) Behavioral and Network Origins of Wealth Inequality: Insights from a Virtual World. PLoS ONE 9(8): e103503.](https://doi.org/10.1371/journal.pone.0103503)
+* [Johnston DC (2011) Beyond the 1 percent. Blogs. Reuters. October 25.](http://blogs.reuters.com/david-cay-johnston/2011/10/25/beyond-the-1-percent/)
+* [Buchanan M (2002) "Wealth Happens - Wealth Distribution and the Role of Networks." Working Knowledge. Harvard Business School. April 29.](https://hbswk.hbs.edu/archive/wealth-happens-wealth-distribution-and-the-role-of-networks)
+
+Tambien vea http://www.ecineq.org/ecineq_nyc17/documents/ECINEQ%202017%20NYC%20booklet.pdf
+
+## Collapse of Economies & Civilizations
+
+* [Goodkind N (2017) Republican House Members Think a $450K Salary Is Middle Class. Newsweek. November 3.](https://www.newsweek.com/tax-cuts-republicans-middle-class-trump-701094)
 * [Marvar A (2019) The US city preparing itself for the collapse of capitalism. The Guardian. October 31.](https://www.theguardian.com/cities/2019/oct/31/us-city-preparing-itself-for-the-collapse-of-capitalism)
-* [Premack R (2019) Another 4,200 truck drivers lost their jobs in September as a recession slams America's $800 billion trucking industry. Business Insider. October 4.](https://www.businessinsider.com/trucking-truck-drivers-job-loss-september-2019-10)
-* [Premack R (2019) Thousands of truck drivers have lost their jobs this year in the trucking 'bloodbath.' Here's what's behind the slowdown in the $800 billion industry. Business Insider. July 21.](https://www.businessinsider.com/why-trucking-industry-slowdown-trucker-job-loss-2019-7)
 * [Black T (2019) American Railroads Are Already in Recession With No End in Sight. Bloomberg. October 7.](https://www.bloomberg.com/news/articles/2019-10-07/american-railroads-are-already-in-recession-with-no-end-in-sight)
+* [Premack R (2019) Another 4,200 truck drivers lost their jobs in September as a recession slams America's $800 billion trucking industry. Business Insider. October 4.](https://www.businessinsider.com/trucking-truck-drivers-job-loss-september-2019-10)
+* [Richmond T (2019) Trump farm secretary: No guarantee small farms will survive. Associated Press. October 1.](https://www.apnews.com/5045af6cf4a24626aad0e406a965f86e)
+* [Premack R (2019) Thousands of truck drivers have lost their jobs this year in the trucking 'bloodbath.' Here's what's behind the slowdown in the $800 billion industry. Business Insider. July 21.](https://www.businessinsider.com/why-trucking-industry-slowdown-trucker-job-loss-2019-7)
 * [Rapier G (2019) One of the US's largest railroads just slashed its profit forecast and gave a dire warning about President Trump's trade war. Business Insider. July 17.](https://www.businessinsider.com/csx-slashes-profit-outlook-warns-trump-trade-war-wreaking-havoc-2019-7)
 * [Cook K, Pinder D, Stewart S III, Uchegbu A, Wight J (2019) The future of work in black America. McKinsey & Company. October.](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-black-america)
 * [Chappell B (2019) U.S. Income Inequality Worsens, Widening To A New Gap. NPR. September 26.](https://www.npr.org/2019/09/26/764654623/u-s-income-inequality-worsens-widening-to-a-new-gap)
-* [Goodkind N (2017) Republican House Members Think a $450K Salary Is Middle Class. Newsweek. November 3.](https://www.newsweek.com/tax-cuts-republicans-middle-class-trump-701094)
-* [Richmond T (2019) Trump farm secretary: No guarantee small farms will survive. Associated Press. October 1.](https://www.apnews.com/5045af6cf4a24626aad0e406a965f86e)
+* [Bardi U , Falsini S, Perissi I (2019) Toward a General Theory of Societal Collapse: A Biophysical Examination of Tainter’s Model of the Diminishing Returns of Complexity. BioPhysical Economics and Resource Quality. 4: 3.](https://doi.org/10.1007/s41247-018-0049-0) &mdash; [PDF](https://link.springer.com/epdf/10.1007/s41247-018-0049-0?shared_access_token=D1urZO2ne3sglXVdnrA3b_e4RwlQNchNByi7wbcMAY4h_fAJVmELMCjWDBSsZyTftKG4xawhNhCgOZ0sXOqKKNEhljiKCEFEZ1U4abS0AEhREA5WO2ywEqRxR0QdkCVDUY3q5gEUA4AIgpMhkoUnEQ==)
+* [Abel GJ, Brottrager M, Cuaresma JC, Muttarak R (2019) Climate, conflict and forced migration. Global Environmental Change. 54: 239-249.](https://doi.org/10.1016/j.gloenvcha.2018.12.003)
+* [Ahmed NM (2017) Failing States, Collapsing Systems: BioPhysical Triggers of Political Violence. SpringerBriefs in Energy. Charles Hall (ed.). Springer Nature: Cham, Switzerland.](https://www.academia.edu/34816514/Failing_States_Collapsing_Systems_BioPhysical_Triggers_of_Political_Violence_SPRINGER_BRIEFS_IN_ENERGY_)
+* [Moriarty P, Honnery D (2017) Three futures: Nightmare, diversion vision. World Futures. DOI: 10.1080/02604027.2017.1357930](https://www.academia.edu/34429647/THREE_FUTURES_Nightmare_Diversion_Vision)
+* [Berg TL (2017) Rethinking the Growth Mantra: An Exploration of the Post-Normal World of Declining Conventional Fossil Energy. (Doctoral dissertation, University of British Columbia, Vancouver, British Columbia, Canada.)](https://www.academia.edu/33058903/Rethinking_the_Growth_Mantra_An_Exploration_of_the_Post-Normal_World_of_Declining_Conventional_Fossil_Energy)
+* [Kerschner C, Capellán-Pérez I (2017) Peak-Oil and Ecological Economics. Rouledge Handbook of Ecological Economics.](https://www.academia.edu/33054835/Peak-_Oil_and_Ecological_Economics)
+* [Michaux S (2017) Peak Industrial Output and the Limits to Growth as a Consequence of Depleting Natural Resources The permanent divergence of the real economy and the fiat economy. August 18.](https://www.academia.edu/36305451/Peak_Industrial_Output_and_the_Limits_to_Growth_as_a_Consequence_of_Depleting_Natural_Resources_The_permanent_divergence_of_the_real_economy_and_the_fiat_economy)
+* [Homer-Dixon T, Walker B, Biggs R, Crépin A-S, Folke C, Lambin EF, Peterson GD, Rockström J, Scheffer M, Steffen W, and Troell M (2015) Synchronous failure: the emerging causal architecture of global crisis. Ecology and Society. 20(3): 6.](http://dx.doi.org/10.5751/ES-07681-200306) &mdash; [PDF](https://www.academia.edu/31952416/Synchronous_failure_the_emerging_causal_architecture_of_global_crisis)
+* [Höök M, Li J, Johansson K, Snowden S (2012) Growth Rates of Global Energy Systems and Future Outlooks. Natural Resources Research. 21: 23.](https://doi.org/10.1007/s11053-011-9162-0) &mdash; [PDF](https://www.academia.edu/32375101/Growth_Rates_of_Global_Energy_Systems_and_Future_Outlooks)
 
 ## Fodder
 
